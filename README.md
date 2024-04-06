@@ -20,3 +20,8 @@ Who were the top ten players with the highest performance scores (overall rating
 How do the player attributes of the consistently highest-rated players compare to the average player attributes?
 
 Which player attributes set the consistently highest-rated player apart from the average player attributes, and by how much?
+
+
+#### Dataset 
+
+https://www.kaggle.com/datasets/hugomathien/soccer
